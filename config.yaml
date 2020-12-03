@@ -13,7 +13,7 @@ languages:
 
 # Site parameters
 params:
-  background: "images/site/background.jpg"
+  background: "static/images/site/background.jpg"
 # Control TOC depth
 markup:
   tableOfContents:
