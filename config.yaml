@@ -11,7 +11,9 @@ languages:
     languageName: English
     weight: 1
 
-
+# Site parameters
+params:
+  background: "images/site/background.jpg"
 # Control TOC depth
 markup:
   tableOfContents:
@@ -58,12 +60,9 @@ params:
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
- logo:
-  main: /images/site/main-logo.png
-  inverted: /images/site/inverted-logo.png
-  favicon: /images/site/favicon.png
 
-  background: "images/site/background.jpg"
+
+
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
